@@ -1,7 +1,7 @@
 please format this for github readme file. 
 
 I want to include the links
-[Shrink Wrap Solutions: Enhancing Construction Efficiency and Safety](https://shrinkmaster.co.nz/shrink-wrap-services/construction-shrink-wrap/)
+[Shrink Wrap Solutions: Enhancing Construction Efficiency and Safety]()
 In the dynamic world of construction, maintaining efficiency and ensuring safety are paramount. Shrink wrap services, like those offered by Shrinkmaster, play a crucial role in achieving these goals. This blog post explores the innovative applications of shrink wrap in the construction industry, with a special focus on construction and scaffolding shrink wrap services.
 
 Shrink Wrap for Construction Projects (link: https://shrinkmaster.co.nz/shrink-wrap-services/construction-shrink-wrap/)
